@@ -11,18 +11,18 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
-|    Member 5     |                         |                        |                 |                                 |  
-|    Member 6     |                         |                        |     Female      |                                 |   
+|   Team Leader   |SARAVANA SELVAN P        |CB.EN.U4ECE26146        |MALE             |B.TECH ELECTRONICS AND COMMUNICATION ENGINEERING |  
+|    Member 2     |Nithin Baalaji Ramesh Babu|CB.EN.U4ECE26330       |MALE             |B.TECH ELECTRONICS AND COMMUNICATION ENGINEERING |  
+|    Member 3     |NITHIN KUMAR R           |CB.EN.U4ECE26038        |MALE             |B.TECH ELECTRONICS AND COMMUNICATION ENGINEERING |  
+|    Member 4     |NITHIN DHARSAN S         |CB.EN.U4ECE26234        |MALE             |B.TECH ELECTRONICS AND COMMUNICATION ENGINEERING |   
+|    Member 5     |Dinesh Kumar S           |CB.EN.U4ECE26114        |MALE             |B.TECH ELECTRONICS AND COMMUNICATION ENGINEERING |  
+|    Member 6     |Mirudula P               |CB.AI.U4QTS26056        |FEMALE           |B.TECH ARTIFICIAL INTELLIGENCE AND DATA SCIENCE  |   
 
 #### Mentor Details
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |                     |                       |                         |                          |
+| Academic       | Kamatchi            |Mentor                 |B.TECH ELECTRONICS AND COMMUNICATION ENGINEERING|          |
 | Industry       |                     |                       |                         |                          |
 
 -----
